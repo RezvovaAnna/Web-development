@@ -1,0 +1,25 @@
+h1 {
+    color: beige;
+}
+h2 {
+    color: antiquewhite;
+}
+html {
+    background-color: #4B0082;
+}
+img {
+    width: 1000px;
+}
+.big.text {
+    font-size: large;
+}
+a {
+    color:crimson; 
+}
+ul {
+    list-style-type: circle;
+}
+a:hover {
+    color:darkgoldenrod;
+    outline: dotted lawngreen;
+}
